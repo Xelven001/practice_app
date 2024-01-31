@@ -1,1 +1,1 @@
-web: voila --no-browser dash_app2.ipynb
+web: voila --port=$PORT --no-browser dash_app2.ipynb

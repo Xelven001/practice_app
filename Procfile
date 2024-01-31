@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True dash_app2.ipynb
+web: voila --no-browser dash_app2.ipynb

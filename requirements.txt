@@ -4,3 +4,4 @@ plotly==5.3.1
 matplotlib==3.4.3
 ipywidgets==7.6.4
 numpy
+setuptools>=57.5.0

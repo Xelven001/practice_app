@@ -6,3 +6,4 @@ ipywidgets
 numpy
 setuptools
 six
+voila
